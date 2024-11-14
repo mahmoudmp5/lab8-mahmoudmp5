@@ -29,6 +29,7 @@ dependencies {
 	testImplementation("org.springframework:spring-webflux")
 	testImplementation("org.springframework.graphql:spring-graphql-test")
 	testImplementation("org.springframework.security:spring-security-test")
+	implementation("com.graphql-java-kickstart:graphql-java-tools:11.1.0")
 }
 
 kotlin {
